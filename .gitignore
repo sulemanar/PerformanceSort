@@ -1,0 +1,20 @@
+# Build artifacts
+build/
+*.o
+*.so
+*.a
+*.out
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/95958119-fd05-4ab9-9f0e-da193f114cb9.png
